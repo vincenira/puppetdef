@@ -1,0 +1,3 @@
+package { "sysvbanner":
+  ensure => "installed",
+}
